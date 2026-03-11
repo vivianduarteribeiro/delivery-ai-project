@@ -166,7 +166,7 @@ python src/main.py
 
 ## Visualização da Rota
 
-Abra o arquivo:
+Abra o arquivo no navegador:
 
 outputs/mapa_rota.html
 
