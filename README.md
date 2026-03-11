@@ -71,15 +71,16 @@ networkx
 delivery-ai-project
 │
 ├── data
-│ └── entregas.csv
 │
 ├── src
-│ ├── clustering.py
-│ ├── route_optimization.py
-│ └── main.py
+│   clustering.py
+│   route_optimization.py
+│   map_visualization.py
+│   main.py
 │
 ├── outputs
-│ └── clusters.png
+│   clusters.png
+│   mapa_rota.html
 │
 ├── requirements.txt
 └── README.md
@@ -158,6 +159,18 @@ python src/main.py
 
 
 ---
+
+## Resultado do Clustering
+
+![Clusters](outputs/clusters.png)
+
+## Visualização da Rota
+
+Abra o arquivo:
+
+outputs/mapa_rota.html
+
+para visualizar o mapa interativo com a rota de entrega.
 
 # 📈 Resultados
 
