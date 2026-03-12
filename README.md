@@ -1,6 +1,6 @@
-# 🚚 Rota Inteligente — Otimização de Entregas com Inteligência Artificial
+#  Rota Inteligente — Otimização de Entregas com Inteligência Artificial
 
-## 📖 Descrição do Projeto
+##  Descrição do Projeto
 
 Este projeto apresenta um sistema simplificado de **otimização de rotas de entrega utilizando Inteligência Artificial**.
 
@@ -16,7 +16,7 @@ Para isso, foram utilizados dois conceitos fundamentais da área de **Inteligên
 
 ---
 
-# 🎯 Objetivos do Projeto
+#  Objetivos do Projeto
 
 O projeto tem como principais objetivos:
 
@@ -27,9 +27,9 @@ O projeto tem como principais objetivos:
 
 ---
 
-# 🧠 Algoritmos Utilizados
+#  Algoritmos Utilizados
 
-## 1️⃣ Clustering — K-Means
+## 1️ Clustering — K-Means
 
 O algoritmo **K-Means** foi utilizado para **agrupar entregas próximas geograficamente**.
 
@@ -47,7 +47,7 @@ scikit-learn
 
 ---
 
-## 2️⃣ Busca Heurística — A*
+## 2️ Busca Heurística — A*
 
 O algoritmo **A\*** foi utilizado para calcular **a melhor rota entre o restaurante e o cliente final**.
 
@@ -65,7 +65,7 @@ networkx
 
 ---
 
-# 📁 Estrutura do Projeto
+#  Estrutura do Projeto
 
 
 delivery-ai-project
@@ -88,7 +88,7 @@ delivery-ai-project
 
 ---
 
-# ⚙️ Funcionamento do Sistema
+#  Funcionamento do Sistema
 
 Fluxo do sistema:
 
@@ -108,7 +108,7 @@ Exibição do resultado
 
 ---
 
-# 📊 Base de Dados
+#  Base de Dados
 
 O arquivo:
 
@@ -132,27 +132,27 @@ pedido,latitude,longitude
 
 ---
 
-# ▶️ Como Executar o Projeto
+#  Como Executar o Projeto
 
-### 1️⃣ Clonar o repositório
+### 1️ Clonar o repositório
 
 
 git clone https://github.com/vivianduarteribeiro/delivery-ai-project.git
 
 
-### 2️⃣ Acessar a pasta do projeto
+### 2️ Acessar a pasta do projeto
 
 
 cd delivery-ai-project
 
 
-### 3️⃣ Instalar as dependências
+### 3️ Instalar as dependências
 
 
 pip install -r requirements.txt
 
 
-### 4️⃣ Executar o sistema
+### 4️ Executar o sistema
 
 
 python src/main.py
@@ -172,7 +172,7 @@ outputs/mapa_rota.html
 
 para visualizar o mapa interativo com a rota de entrega.
 
-# 📈 Resultados
+#  Resultados
 
 Ao executar o sistema:
 
@@ -188,7 +188,7 @@ outputs/clusters.png
 
 ---
 
-# 🛠 Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -200,7 +200,7 @@ outputs/clusters.png
 
 ---
 
-# 📚 Conceitos de IA Aplicados
+#  Conceitos de IA Aplicados
 
 Este projeto aplica conceitos fundamentais de:
 
